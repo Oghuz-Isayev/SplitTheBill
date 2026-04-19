@@ -1,0 +1,6 @@
+{
+  "name": "QR Table Pay",
+  "description": "Progressive Web App prototype for a restaurant QR payment system with bill splitting, realtime sync simulation, and Apple/Google Pay mockups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
